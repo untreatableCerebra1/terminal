@@ -1,0 +1,2 @@
+# terminal
+hugo app
